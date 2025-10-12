@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
   resources:
     <!-- - "images/twitter-card.png" -->
 
@@ -20,7 +21,7 @@ website:
     right:
       - text: About
         href: about.qmd
-      - text: Homepage
+      - text: MSS
         href: https://www.mss.rwth-aachen.de/cms/~eiqx/mss/?lidx=1
       - icon: rss-fill
         href: index.xml

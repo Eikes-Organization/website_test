@@ -24,10 +24,31 @@
 
 
  ]]></description>
-  <category>execution</category>
+  <category>MBD</category>
+  <category>FEM</category>
   <guid>https://eikes-organization.github.io/website_test/software_pages/bryne/</guid>
   <pubDate>Mon, 30 Jun 2025 22:00:00 GMT</pubDate>
   <media:content url="https://eikes-organization.github.io/website_test/software_pages/bryne/featured.png" medium="image" type="image/png" height="98" width="144"/>
+</item>
+<item>
+  <title>pyresice</title>
+  <link>https://eikes-organization.github.io/website_test/software_pages/pyresice/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>MBD</category>
+  <category>Landslide</category>
+  <category>Random Forest</category>
+  <guid>https://eikes-organization.github.io/website_test/software_pages/pyresice/</guid>
+  <pubDate>Wed, 19 Mar 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://eikes-organization.github.io/website_test/software_pages/pyresice/featured.png" medium="image" type="image/png" height="98" width="144"/>
 </item>
 <item>
   <title>SHIRE</title>
@@ -42,30 +63,12 @@
 
 
  ]]></description>
+  <category>MBD</category>
   <category>Landslide</category>
   <category>Random Forest</category>
   <guid>https://eikes-organization.github.io/website_test/software_pages/SHIRE/</guid>
   <pubDate>Sun, 07 Apr 2024 22:00:00 GMT</pubDate>
   <media:content url="https://eikes-organization.github.io/website_test/software_pages/SHIRE/featured.png" medium="image" type="image/png" height="98" width="144"/>
-</item>
-<item>
-  <title>SHIRE</title>
-  <link>https://eikes-organization.github.io/website_test/software_pages/pyresice/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
-
- ]]></description>
-  <category>Landslide</category>
-  <category>Random Forest</category>
-  <guid>https://eikes-organization.github.io/website_test/software_pages/pyresice/</guid>
-  <pubDate>Sun, 07 Apr 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://eikes-organization.github.io/website_test/software_pages/pyresice/featured.png" medium="image" type="image/png" height="98" width="144"/>
 </item>
 <item>
   <title>PSimPy</title>
@@ -80,6 +83,7 @@
 
 
  ]]></description>
+  <category>MBD</category>
   <category>Landslide</category>
   <category>Gaussian Process</category>
   <category>Uncertainty Quantification</category>
