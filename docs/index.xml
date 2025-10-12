@@ -91,5 +91,74 @@
   <pubDate>Sat, 08 Jul 2023 22:00:00 GMT</pubDate>
   <media:content url="https://eikes-organization.github.io/website_test/software_pages/PSimPy/featured.png" medium="image" type="image/png" height="98" width="144"/>
 </item>
+<item>
+  <title>Poster Try</title>
+  <dc:creator>Carsten Rücker</dc:creator>
+  <link>https://eikes-organization.github.io/website_test/software_pages/Test/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="features" class="level1">
+<h1>Features</h1>
+<div class="card p-3 rounded shadow">
+<ul>
+<li>Continuous Galerkin FEA<br>
+</li>
+<li>Common 1D, 2D, and 3D elements<br>
+</li>
+<li>Symbolic shape function generator<br>
+</li>
+<li>Mixed element spaces<br>
+</li>
+</ul>
+</div>
+</section>
+<section id="oskar" class="level1">
+<h1>Oskar</h1>
+<div class="card p-3 rounded shadow">
+<ul>
+<li>Open-source Python library<br>
+</li>
+<li>Finite Element Approximation (FEA)<br>
+</li>
+<li>Ready-made solver for single-phase thermo-hydro-mechanical (THM) processes<br>
+</li>
+<li>Built with NumPy, SciPy, Matplotlib, pyGIMLi<br>
+</li>
+<li>Cross-platform, lightweight, and extensible<br>
+</li>
+</ul>
+</div>
+</section>
+<section id="scriptbase" class="level1">
+<h1>Scriptbase</h1>
+<div class="card p-3 rounded shadow">
+<ul>
+<li>Simple but flexible PDE interface<br>
+</li>
+<li>Write strong or weak formulations<br>
+</li>
+<li>Symbolic or numerical expressions<br>
+</li>
+</ul>
+</div>
+</section>
+<section id="example" class="level1">
+<h1>Example</h1>
+<div class="card p-3 rounded shadow">
+<p><strong>Weak thermo-elastic coupling (TM)</strong><br>
+Simple bimetal strip with constant load<br>
+```python T = phi * (q + (∇·u) * λ * α)</p>
+
+
+</div>
+</section>
+
+ ]]></description>
+  <guid>https://eikes-organization.github.io/website_test/software_pages/Test/</guid>
+  <pubDate>Sun, 12 Oct 2025 19:25:02 GMT</pubDate>
+</item>
 </channel>
 </rss>
