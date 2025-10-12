@@ -1,6 +1,8 @@
 ---
 title: "Poster Try"
-author: "Carsten Rücker"
+date: "2000-01-01"
+categories: [mbd]
+image: "featured.png"
 affiliation: "Federal Office for the Safety of Nuclear Waste Management (BASE), Berlin, Germany"
 format: 
   html:

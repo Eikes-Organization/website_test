@@ -93,7 +93,6 @@
 </item>
 <item>
   <title>Poster Try</title>
-  <dc:creator>Carsten Rücker</dc:creator>
   <link>https://eikes-organization.github.io/website_test/software_pages/Test/</link>
   <description><![CDATA[ 
 
@@ -157,8 +156,10 @@ Simple bimetal strip with constant load<br>
 </section>
 
  ]]></description>
+  <category>mbd</category>
   <guid>https://eikes-organization.github.io/website_test/software_pages/Test/</guid>
-  <pubDate>Sun, 12 Oct 2025 19:25:02 GMT</pubDate>
+  <pubDate>Fri, 31 Dec 1999 23:00:00 GMT</pubDate>
+  <media:content url="https://eikes-organization.github.io/website_test/software_pages/Test/featured.png" medium="image" type="image/png" height="98" width="144"/>
 </item>
 </channel>
 </rss>
