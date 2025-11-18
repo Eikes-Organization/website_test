@@ -6,3 +6,4 @@ image: "featured.png"
 image-alt: "SHIRE (Susceptibility Hazard mappIng fRamEwork) is a tool to facilitate and streamline landslide susceptibility and hazard mapping using a Random Forest classifier."
 ---
 
+![](poster-pyresice.pdf){width=200% height=950px}

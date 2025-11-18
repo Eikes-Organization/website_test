@@ -40,5 +40,3 @@ format:
 ::: {.card .p-3 .rounded .shadow}
 **Weak thermo-elastic coupling (TM)**  
 Simple bimetal strip with constant load  
-```python
-T = phi * (q + (∇·u) * λ * α)

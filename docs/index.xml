@@ -20,6 +20,7 @@
 
 
 
+<p><embed src="poster-bryne.pdf" style="width:200.0%" height="950"></p>
 
 
 
@@ -39,6 +40,7 @@
 
 
 
+<p><embed src="poster-pyresice.pdf" style="width:200.0%" height="950"></p>
 
 
 
@@ -59,7 +61,7 @@
 
 
 
-<p><embed src="SHIRE_poster_try-1.pdf" class="img-fluid" style="width:100.0%"></p>
+<p><embed src="SHIRE_poster_try-1.pdf" style="width:200.0%" height="950"></p>
 
 
 
@@ -80,6 +82,7 @@
 
 
 
+<p><embed src="poster-PSimPy.pdf" style="width:200.0%" height="950"></p>
 
 
 
@@ -149,8 +152,7 @@
 <h1>Example</h1>
 <div class="card p-3 rounded shadow">
 <p><strong>Weak thermo-elastic coupling (TM)</strong><br>
-Simple bimetal strip with constant load<br>
-```python T = phi * (q + (∇·u) * λ * α)</p>
+Simple bimetal strip with constant load</p>
 
 
 </div>

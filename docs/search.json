@@ -4,7 +4,7 @@
     "href": "software_pages/Test/index.html",
     "title": "Poster Try",
     "section": "",
-    "text": "Features\n\n\nContinuous Galerkin FEA\n\nCommon 1D, 2D, and 3D elements\n\nSymbolic shape function generator\n\nMixed element spaces\n\n\n\n\n\nOskar\n\n\nOpen-source Python library\n\nFinite Element Approximation (FEA)\n\nReady-made solver for single-phase thermo-hydro-mechanical (THM) processes\n\nBuilt with NumPy, SciPy, Matplotlib, pyGIMLi\n\nCross-platform, lightweight, and extensible\n\n\n\n\n\nScriptbase\n\n\nSimple but flexible PDE interface\n\nWrite strong or weak formulations\n\nSymbolic or numerical expressions\n\n\n\n\n\nExample\n\nWeak thermo-elastic coupling (TM)\nSimple bimetal strip with constant load\n```python T = phi * (q + (∇·u) * λ * α)"
+    "text": "Features\n\n\nContinuous Galerkin FEA\n\nCommon 1D, 2D, and 3D elements\n\nSymbolic shape function generator\n\nMixed element spaces\n\n\n\n\n\nOskar\n\n\nOpen-source Python library\n\nFinite Element Approximation (FEA)\n\nReady-made solver for single-phase thermo-hydro-mechanical (THM) processes\n\nBuilt with NumPy, SciPy, Matplotlib, pyGIMLi\n\nCross-platform, lightweight, and extensible\n\n\n\n\n\nScriptbase\n\n\nSimple but flexible PDE interface\n\nWrite strong or weak formulations\n\nSymbolic or numerical expressions\n\n\n\n\n\nExample\n\nWeak thermo-elastic coupling (TM)\nSimple bimetal strip with constant load"
   },
   {
     "objectID": "about.html",
